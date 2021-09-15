@@ -14,7 +14,7 @@
 
 ### LIVE
 
-https://dakarakoso.github.io/Quote-Generator/
+https://dakarakoso.github.io/Animated-Website/
 
 <!-- TABLE OF CONTENTS -->
 
@@ -51,14 +51,14 @@ The main purpose of this project was to create a website using a template and ma
 
 ## Usage
 
-![Quote Generator](https://github.com/Dakarakoso/Quote-Generator/blob/main/images/usage.gif)
+![Animated Website](https://github.com/Dakarakoso/Animated-Website/blob/main/images/usage.gif)
 
 <!-- CONTACT -->
 
 ## Contact
 
 Willian Negishi - willian_jvm@hotmail.com
-Project Link: [https://github.com/Dakarokoso/Quote-Generator](https://github.com/Dakarakoso/Quote-Generator)
+Project Link: [https://github.com/Dakarokoso/Animated-Website](https://github.com/Dakarakoso/Animated-Website)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
